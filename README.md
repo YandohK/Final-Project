@@ -9,3 +9,5 @@
 ### Importance of File Compression
 * Compression allows for more data or files to be stored under a single drive space as the size of the files are greatly reduced via compression. Along with that the time it takes to transfer projects and files once they're encrypted through compression is significantly reduced.
 
+### How do I compress files?
+** Idk
