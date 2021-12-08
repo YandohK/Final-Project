@@ -10,6 +10,7 @@
 * Compression allows for more data or files to be stored under a single drive space as the size of the files are greatly reduced via compression. Along with that the time it takes to transfer projects and files once they're encrypted through compression is significantly reduced.
 
 ### How do I compress files?
+* This section is a short tutorial for individuals who are learning about File Compression and or would like to try/test it out on their own. Provided below are examples of the two different types of compression.
 1. [Lossless](Lossless.md)
     * The lossless format compresses all original data; maintaining all information/data.
 
