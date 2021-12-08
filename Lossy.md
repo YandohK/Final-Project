@@ -8,7 +8,7 @@
 ### Example
 First JPG                  |  After Compressing for awhile
 :-------------------------:|:-------------------------:
-![Bredd1](bredd.jpeg) |  ![]![Bredd2](bredd2.jpeg)
+![Bredd1](bredd.jpeg) |  ![Bredd2](bredd2.jpeg)
 
 
 
