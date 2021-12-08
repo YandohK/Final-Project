@@ -1,5 +1,5 @@
 # File Compression/How to Compress File Sizes
-## By. Yandoh Keno
+### By. Yandoh Keno
 
 
 ### What is File Compression?
