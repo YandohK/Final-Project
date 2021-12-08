@@ -6,7 +6,7 @@
 4. You've completed the Lossy Compression method via JPEG, if you really want to see the effects of Lossy JPEG take that same JPG file you just created and re open it and save it again as another JPG file.
 5. If you manage to do this you might notice a slight loss in file size and or quality of image between each save of JPG.
 ### Example
-First JPG                  |  After Compressing for awhile
+First JPG                  |  After Compressing For Awhile
 :-------------------------:|:-------------------------:
 ![Bredd1](bredd.jpeg) |  ![Bredd2](bredd2.jpeg)
 
