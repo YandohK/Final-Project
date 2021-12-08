@@ -10,5 +10,8 @@
 * Compression allows for more data or files to be stored under a single drive space as the size of the files are greatly reduced via compression. Along with that the time it takes to transfer projects and files once they're encrypted through compression is significantly reduced.
 
 ### How do I compress files?
-1. Item
-    * sdfsaf
+1. [Lossless](Lossless.md)
+    * The lossless format compresses all original data; maintaining all information/data.
+
+2. [Lossy](Lossy.md)
+    * The lossy format gets rid of information deemed unnecessary for file reduction. This can result in a quality drop from the original data.
