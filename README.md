@@ -15,4 +15,4 @@
     * The lossless format compresses all original data; maintaining all information/data.
 
 2. [Lossy](Lossy.md)
-    * The lossy format gets rid of information deemed unnecessary for file reduction. This can results both a smaller data size AND a reduction in quality.
+    * The lossy format gets rid of information deemed unnecessary for file reduction. This can results both a smaller data size AND reduction in quality.
